@@ -1,0 +1,40 @@
+html {
+    width: auto;
+   
+}
+
+body {
+    background-color: #FFF3DB;
+    font-family: sans-serif;
+    margin: auto;
+    width: 37vw;
+    
+}
+
+h1 {
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #F02425;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    color: #F02425;
+}
+
+.fontWeight {
+    font-weight: bold;
+    color: #F02425;
+}
+
+.center {
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.red{
+    color: #F02425;
+}
