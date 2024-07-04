@@ -20,3 +20,5 @@ Vous pouvez personnaliser la recette en ajoutant des ingrédients supplémentair
 ## Auteurs
 
 Ce projet a été réalisé par Maïssane. Pour toute question ou suggestion, veuillez me contacter à abd.maissane@gmail.com.
+
+![Résultat](image.png)
