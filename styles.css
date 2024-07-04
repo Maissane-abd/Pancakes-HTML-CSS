@@ -1,40 +1,45 @@
+/* Définition générale pour l'élément HTML */
 html {
-    width: auto;
-   
+    width: auto; /* Largeur automatique */
 }
 
+/* Styles pour l'élément body */
 body {
-    background-color: #FFF3DB;
-    font-family: sans-serif;
-    margin: auto;
-    width: 37vw;
-    
+    background-color: #FFF3DB; /* Couleur de fond */
+    font-family: sans-serif; /* Police de caractère */
+    margin: auto; /* Marges automatiques pour centrer */
+    width: 37vw; /* Largeur de 37% de la fenêtre */
 }
 
+/* Styles pour les éléments h1 */
 h1 {
-    text-align: center;
-    color: #FFFFFF;
-    font-weight: bold;
-    background-color: #F02425;
+    text-align: center; /* Alignement centré du texte */
+    color: #FFFFFF; /* Couleur du texte */
+    font-weight: bold; /* Texte en gras */
+    background-color: #F02425; /* Couleur de fond */
 }
 
+/* Styles pour les éléments h2 */
 h2 {
-    text-align: center;
-    font-weight: bold;
-    color: #F02425;
+    text-align: center; /* Alignement centré du texte */
+    font-weight: bold; /* Texte en gras */
+    color: #F02425; /* Couleur du texte */
 }
 
+/* Classe pour le texte en gras */
 .fontWeight {
-    font-weight: bold;
-    color: #F02425;
+    font-weight: bold; /* Texte en gras */
+    color: #F02425; /* Couleur du texte */
 }
 
+/* Classe pour centrer le texte avec un style italic et une décoration soulignée */
 .center {
-    text-align: center;
-    font-style: italic;
-    text-decoration: underline;
+    text-align: center; /* Alignement centré du texte */
+    font-style: italic; /* Texte en italique */
+    text-decoration: underline; /* Texte souligné */
 }
 
-.red{
-    color: #F02425;
+/* Classe pour le texte en rouge */
+.red {
+    color: #F02425; /* Couleur du texte */
 }
